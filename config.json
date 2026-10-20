@@ -1,0 +1,23 @@
+{
+    "sheetUrl": "https://docs.google.com/spreadsheets/d/1UXEL8KN-XNPi_Wr4wGDcT5hlT_Vv6ZaNxgLW2I__afc/edit?usp=sharing",
+    "sheetName": "LichHen",
+    "mode": "auto",
+    "pageSize": 6,
+    "minRowH": 70,
+    "interval": 10,
+    "refresh": 60,
+    "anim": "slide",
+    "dateMode": "today",
+    "date": "",
+    "sortTime": true,
+    "title": "KHÁCH HÀNG ĐẶT LỊCH HẸN",
+    "dateLabel": "NGÀY:",
+    "logo": "",
+    "fontScale": 1,
+    "colorHead": "#4472c4",
+    "color1": "#cfd5ea",
+    "color2": "#e9ebf5",
+    "colorText": "#00529c",
+    "colorTitle": "#ff0000",
+    "pass": "123456"
+}
